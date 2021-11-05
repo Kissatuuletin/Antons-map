@@ -1,0 +1,1 @@
+var json_Tuve_1_3 = {"type":"FeatureCollection","name":"Tuve_1_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Namn":"Tuve","Typ":"Jordskred","Årtal":1960.0},"geometry":{"type":"Point","coordinates":[11.93310856377213,57.762062960604261]}}]}

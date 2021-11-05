@@ -1,0 +1,1 @@
+var json_Smarod_1_7 = {"type":"FeatureCollection","name":"Smarod_1_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[11.722105108789721,58.424958835400041]}}]}
