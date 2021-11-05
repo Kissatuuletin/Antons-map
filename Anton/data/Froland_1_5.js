@@ -1,0 +1,1 @@
+var json_Froland_1_5 = {"type":"FeatureCollection","name":"Froland_1_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[11.865142729678963,58.338128497084206]}}]}

@@ -1,0 +1,1 @@
+var json_Hjalpesten_1_8 = {"type":"FeatureCollection","name":"Hjalpesten_1_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Namn":"Hjälpesten","Typ":"Jordskred","Årtal":"2021"},"geometry":{"type":"Point","coordinates":[11.392209413924295,58.604863420854414]}}]}
